@@ -83,7 +83,7 @@
     { "type": "git", "url": "git@github.com:FWCommunity/magento_fw_zirconProcessing_CE.git" },
     { "type": "git", "url": "git@github.com:FWCommunity/magento_fw_canonical_CE.git" },
     { "type": "git", "url": "git@github.com:FWCommunity/magento_fw_dropship.git" },
-    { "type": "git", "url": "git@github.com:FWCommunity/magento_fw_productCustom_CE.git" },
+
 	{ "type": "composer", "url": "https://packages.firegento.com/" }
     ],
     "extra": {
@@ -140,7 +140,6 @@
     "fwcommunity/magento_fw_zirconProcessing_CE":"*",
     "fwcommunity/magento_fw_canonical_CE":"*",
     "fwcommunity/magento_fw_dropship":"*",
-    "fwcommunity/magento-fw-taxware":"*",
-    "fwcommunity/magento_fw_productCustom_CE" : "*"
+    "fwcommunity/magento-fw-taxware":"*"
     }
 }
